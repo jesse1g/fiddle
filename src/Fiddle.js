@@ -58,7 +58,7 @@ const Repo_counters = styled.div`
 `;
 
 
-class App extends Component {
+class Fiddle extends Component {
 
   constructor(props) {
     super(props);
@@ -113,4 +113,4 @@ class App extends Component {
 
 }
 
-export default App;
+export default Fiddle;
