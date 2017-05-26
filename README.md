@@ -1,7 +1,7 @@
 # Fiddle
 ## How to Install
-1. clone repo (git clone https://github.com/jesse1g/fiddle)
-2. In console type `npm install` to install the necessary packages
+1. clone repo using `git clone https://github.com/jesse1g/fiddle`
+2. `npm install` to install the necessary packages
 3. After it's done installing, in console type `npm start` to compile and run the project
 4. `localhost:3000` should automatically open in the browser or go to it manually
 
